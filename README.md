@@ -6,7 +6,6 @@ Hi, I'm **Sezer Tetik**, I'm working on improve myself about the programming. No
 </a>
 
 <br />
-
 <br />
 
 - 📫 How to reach me: [Mail](mailto:sezer.tetik2005@gmail.com);
@@ -21,5 +20,7 @@ Hi, I'm **Sezer Tetik**, I'm working on improve myself about the programming. No
 <code><img height="20" src="https://www.mehmetaltunel.com/wp-content/uploads/2020/02/Angular_full_color_logo.svg_.png"></code>
 <code><img height="20" src="https://miro.medium.com/max/816/1*TpbxEQy4ckB-g31PwUQPlg.png"></code>
 
+<br />
+<br />
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=sezRR&show_icons=true&theme=gotham" alt="sezRR" />
