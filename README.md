@@ -12,6 +12,7 @@ Hi, I'm **Sezer Tetik**, I'm working on improve myself about the programming. No
 
 <br />
 <br />
+<br />
 
 **Languages and Tools:**  
 
