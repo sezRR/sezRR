@@ -1,14 +1,17 @@
 ### Hi there 👋
 Hi, I'm **Sezer Tetik**, I'm working on improve myself about the programming. Nowadays I'm going to high school (10th grade). I love programming and creating projects.
 
-<a href="https://www.linkedin.com/in/sezertetik/">
-  <img align="left" alt="sezRR Linkedin" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-
 <br />
 <br />
 
 - 📫 How to reach me: [Mail](mailto:sezer.tetik2005@gmail.com);
+
+<br>
+
+<a href="https://www.linkedin.com/in/sezertetik/">
+  <img align="left" alt="sezRR Linkedin" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+
 
 <br />
 <br />
