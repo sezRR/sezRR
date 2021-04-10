@@ -1,16 +1,14 @@
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+
+Hi, I'm **Sezer Tetik**, I'm working on improve myself about the programming. Nowadays I'm going to high school (10th grade). I love programming and creating projects.
 
 <a href="https://www.linkedin.com/in/sezertetik/">
-  <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="sezRR Linkedin" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
 <br />
 
-Hi, I'm **Sezer Tetik**, I'm working on improve myself about the programming. Nowadays I'm going to high school (10th grade). I love programming and creating projects.
+<br />
 
-
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
-  
 - 📫 How to reach me: [Mail](mailto:sezer.tetik2005@gmail.com);
 
 **Languages and Tools:**  
