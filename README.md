@@ -1,16 +1,30 @@
-### Hi there 👋
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<!--
-**sezRR/sezRR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://www.linkedin.com/in/sezertetik/">
+  <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
 
-Here are some ideas to get you started:
+<br />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Hi, I'm **Sezer Tetik**, I'm working on improve myself about the programming. Nowadays I'm going to high school (10th grade). I love programming and creating projects.
+
+
+  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+  
+- 📫 How to reach me: [Mail](mailto:sezer.tetik2005@gmail.com);
+
+**Languages and Tools:**  
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="20" src="https://www.avenga.com/wp-content/uploads/2020/11/C-Sharp.png"></code>
+<code><img height="20" src="https://mennankose.com/content/images/size/w600/2019/09/netcore.png"></code>
+<code><img height="20" src="https://www.mehmetaltunel.com/wp-content/uploads/2020/02/Angular_full_color_logo.svg_.png"></code>
+<code><img height="20" src="https://miro.medium.com/max/816/1*TpbxEQy4ckB-g31PwUQPlg.png"></code>
+
+
+
+📈 My GitHub Stats
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=sezRR&show_icons=true&theme=gotham" alt="sezRR" />
