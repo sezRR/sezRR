@@ -5,8 +5,6 @@ Hi, I'm **Sezer Tetik**, I'm working on improve myself about the programming. No
 
 - 📫 How to reach me: [Mail](mailto:sezer.tetik2005@gmail.com);
 
-<br>
-
 <a href="https://www.linkedin.com/in/sezertetik/">
   <img align="left" alt="sezRR Linkedin" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
