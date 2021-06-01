@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=your-github-username&color=green)
+![](https://komarev.com/ghpvc/?username=sezRR&color=green)
 
 ### Hi there 👋
 Hi, I'm **Sezer Tetik**, I'm working on improve myself about the programming. Nowadays I'm going to high school (10th grade). I love programming and creating projects.
