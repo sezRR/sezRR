@@ -42,5 +42,3 @@ Hi, I'm **Sezer Tetik**, I'm working on improve myself about the programming. No
 </p>
 <br />
 <br />
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=sezRR&show_icons=true&theme=gotham" alt="sezRR" />
