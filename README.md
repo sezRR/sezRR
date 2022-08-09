@@ -5,7 +5,7 @@ Hi, I'm Sezer Tetik. I am working on improving myself in programming. Nowadays, 
 
 <br />
 
-- 📫 How to reach me: me@sezertetik.dev;
+- 📫 How to reach me: me@sezertetik.dev
 
 <a href="https://www.linkedin.com/in/sezertetik/">
   <img align="left" alt="sezRR Linkedin" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
