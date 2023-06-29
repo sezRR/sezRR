@@ -1,7 +1,7 @@
 ![](https://komarev.com/ghpvc/?username=sezRR&color=green)
 
 ### Hi there 👋
-Hi, I'm Sezer Tetik. I am working on improving myself in programming. Nowadays, I'm working at a company about Unreal Engine & Software Development. I love programming and creating projects.
+Hi, I'm Sezer Tetik. I am working on improving myself in programming. I love programming and creating projects.
 
 <br />
 
