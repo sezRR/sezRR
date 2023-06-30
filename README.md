@@ -8,7 +8,7 @@
 <br>
 
 <div align="center">
-    <a href="#" title="szrr_">
+    <a disabled href="#" title="szrr_">
         <img alt="sezRR Discord"src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&style=for-the-badge&logoColor=white" />
     </a>
     <a href="https://www.instagram.com/s3zzrr/">
