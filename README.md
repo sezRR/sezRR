@@ -8,7 +8,7 @@
 <br>
 
 <div align="center">
-    <a href="https://www.linkedin.com/in/sezertetik/">
+    <a href="#" title="szrr_">
         <img alt="sezRR Discord"src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&style=for-the-badge&logoColor=white" />
     </a>
     <a href="https://www.instagram.com/s3zzrr/">
@@ -21,6 +21,7 @@
 </div>
 
 <br/>
+<br>
 
 <h1 align="center">💻 tech_stack;</h1>
 <div align="center">
@@ -109,6 +110,7 @@
     <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/>
 </div>
 
+<br>
 <br>
 
 <h1 align="center">📊 github_stats;</h1>
