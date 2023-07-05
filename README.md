@@ -8,12 +8,6 @@
 <br>
 
 <div align="center">
-    <a style="cursor:default" href="#" title="szrr_">
-        <img alt="sezRR Discord"src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&style=for-the-badge&logoColor=white" />
-    </a>
-    <a href="https://www.instagram.com/s3zzrr/">
-        <img alt="sezRR Instagram"src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" />
-    </a>
     <a href="https://www.linkedin.com/in/sezertetik/">
         <img alt="sezRR Linkedin"src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
