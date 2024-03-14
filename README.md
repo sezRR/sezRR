@@ -1,5 +1,5 @@
 <h1 align="center">👋 hi_there;</h1>
-<p align="center">Hi, I'm Sezer. I love programming and creating projects. Nowadays, I'm currently working on personal projects.</p>
+<p align="center">Hello World! I'm Sezer, a programming enthusiast with a knack for creative projects. I love diving into new coding challenges and exploring different technologies, constantly seeking to expand my skills and knowledge in the field.</p>
 
 <p align="center">
     📫For contact <b>me@sezertetik.dev</b>
@@ -107,15 +107,17 @@
 <br>
 <br>
 
-<h1 align="center">📊 github_stats;</h1>
+<h1 align="center">📊 my_stats;</h1>
+<div align="center">
+    <img style="center" src="https://www.codewars.com/users/sezRR/badges/large"/>
+</div>
+
+<br>
+<br>
+
 <div align="center">
     <a href="http://www.github.com/sezrr">
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=sezrr&theme=apprentice&hide_border=false"/>
     </a>
 </div>
 
-<div align="center">
-    <a href="https://github.com/sezrr">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sezrr&theme=apprentice&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
-    </a>
-</div>
