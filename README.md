@@ -5,4 +5,7 @@ Hello World! I'm Sezer, a programming enthusiast with a knack for creative proje
 📫 For contact **me@sezertetik.dev**
 
 [![sezRR Linkedin](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sezertetik/)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=sezrr&theme=dark)](https://git.io/streak-stats)
+
 ![Profile Views](https://komarev.com/ghpvc/?username=sezrr&style=for-the-badge&color=lightgrey)
